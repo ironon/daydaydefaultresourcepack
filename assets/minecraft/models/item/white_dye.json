@@ -1,0 +1,114 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "capybara:entity/capybara/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "capybara:entity/capybara/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "capybara:entity/capybara/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "capybara:entity/capybara/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "capybara:entity/capybara/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "capybara:entity/capybara/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "capybara:entity/capybara/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "capybara:entity/capybara/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "capybara:entity/capybara/awake/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "capybara:entity/capybara/awake/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "capybara:entity/capybara/awake/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "capybara:entity/capybara/awake/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "capybara:entity/capybara/awake/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "capybara:entity/capybara/awake/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "capybara:entity/capybara/awake/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "capybara:entity/capybara/awake/bone6"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"9bca8bb1-8649-50aa-4b67-29c9a599e9e5": {
+				"name": "capybaras",
+				"usedIDs": [
+					[1, 16]
+				]
+			}
+		}
+	}
+}

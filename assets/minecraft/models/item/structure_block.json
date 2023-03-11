@@ -1,0 +1,53 @@
+{
+  "parent": "block/structure_block",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 3000
+      },
+      "model": "capybara:entity/sheep.geo/bone4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3001
+      },
+      "model": "capybara:entity/sheep.geo/bone5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3002
+      },
+      "model": "capybara:entity/sheep.geo/bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3003
+      },
+      "model": "capybara:entity/sheep.geo/bone2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3004
+      },
+      "model": "capybara:entity/sheep.geo/bone6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3005
+      },
+      "model": "capybara:entity/sheep.geo/bone7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3006
+      },
+      "model": "capybara:entity/sheep.geo/bone8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3007
+      },
+      "model": "capybara:entity/sheep.geo/bone9"
+    }
+  ]
+}

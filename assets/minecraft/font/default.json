@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/watching.png",
+            "ascent": 0,
+	    "height": 96,
+            "chars": ["\uE001"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:daygui/bossfinal1.png",
+            "ascent": 15,
+	    "height": 30,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:daygui/bars.png",
+            "ascent": 69,
+	    "height": 160,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:daygui/timestop.png",
+            "ascent": 170,
+	    "height": 330,
+            "chars": ["\uE004"]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "gravitybomb.tick" : {
+        "sounds":[
+            "tick/tick"
+        ]
+    },
+    "vbucks.free" : {
+        "sounds":[
+            "vbucks/free"
+        ]
+    },
+    "finish.time" : {
+        "sounds":[
+            "finish/time"
+        ]
+    },
+    "finish.continue" : {
+        "sounds":[
+            "finish/continue"
+        ]
+    },
+    "finish.gin" : {
+        "sounds":[
+            "finish/gin"
+        ]
+    }
+}

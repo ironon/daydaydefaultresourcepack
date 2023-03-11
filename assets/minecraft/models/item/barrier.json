@@ -1,0 +1,20 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/barrier"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/custom/cosmetic/squishmellow1"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/custom/cosmetic/squishmellow2"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/custom/cosmetic/squishmellow3"},
+  { "predicate": {"custom_model_data": 4}, "model": "item/custom/cosmetic/squishmellow4"},
+  { "predicate": {"custom_model_data": 5}, "model": "item/custom/cosmetic/squishmellow5"},
+  { "predicate": {"custom_model_data": 6}, "model": "item/custom/cosmetic/bee"},
+  { "predicate": {"custom_model_data": 7}, "model": "item/custom/cosmetic/wither"},
+  { "predicate": {"custom_model_data": 8}, "model": "item/custom/panda"},
+  { "predicate": {"custom_model_data": 9}, "model": "item/custom/net"}
+ ]
+
+ 
+}

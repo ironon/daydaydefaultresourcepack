@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/command_block",
+    
+   
+    "overrides": [
+{ "predicate": {"custom_model_data": 1}, "model": "item/particles/ironbossparticle"},
+{ "predicate": {"custom_model_data": 2}, "model": "item/amiboss/ironhead"}
+    ]
+
+   }

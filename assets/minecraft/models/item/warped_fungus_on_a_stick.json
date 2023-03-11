@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+     "layer0": "item/warped_fungus_on_a_stick"
+    },
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 1}, "model": "item/custom/thrusterboat"},
+     { "predicate": {"custom_model_data": 2}, "model": "item/custom/gravitybomb"},
+     { "predicate": {"custom_model_data": 3}, "model": "item/custom/gravitybomb_transition"},
+     { "predicate": {"custom_model_data": 4}, "model": "item/custom/gravitybomb_final"},
+     { "predicate": {"custom_model_data": 5}, "model": "item/custom/hyperion"},
+     { "predicate": {"custom_model_data": 6}, "model": "item/custom/rocketlauncher"},
+     { "predicate": {"custom_model_data": 7}, "model": "item/custom/beskarsword"},
+     { "predicate": {"custom_model_data": 8}, "model": "item/custom/infsword"},
+     { "predicate": {"custom_model_data": 10}, "model": "item/custom/teleportstaff"},
+     { "predicate": {"custom_model_data": 11}, "model": "item/custom/thrusterboat"},
+     { "predicate": {"custom_model_data": 12}, "model": "item/custom/cosmetic/offgriddirt"},
+     { "predicate": {"custom_model_data": 13}, "model": "item/custom/magic_wand_wood_t1"},
+     { "predicate": {"custom_model_data": 14}, "model": "item/custom/cosmetic/antisquishmellowwand"},
+     { "predicate": {"custom_model_data": 15}, "model": "item/custom/netgun"},
+     { "predicate": {"custom_model_data": 100}, "model": "item/custom/mosswand"},
+     { "predicate": {"custom_model_data": 1001}, "model": "item/custom/gravitybomb_s1"},
+     { "predicate": {"custom_model_data": 1002}, "model": "item/custom/gravitybomb_s2"},
+     { "predicate": {"custom_model_data": 1003}, "model": "item/custom/gravitybomb_s3"},
+     { "predicate": {"custom_model_data": 1004}, "model": "item/custom/gravitybomb_s4"},
+     { "predicate": {"custom_model_data": 1005}, "model": "item/custom/gravitybomb_s5"},
+     { "predicate": {"custom_model_data": 11707}, "model": "item/custom/nothing"},
+     { "predicate": {"custom_model_data": 11708}, "model": "item/custom/remotedetonator"}
+    ]
+   
+    
+   }
